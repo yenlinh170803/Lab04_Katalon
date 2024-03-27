@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77fe06bd-3d17-4b4c-b596-13f005f1e5dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b439311-7e16-4f7f-93a3-6e0632674cc7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e38bcc5d-f65f-4ae3-90fe-5577cc7ad303</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d9b20350-a60d-492c-a229-11031356ea07</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9b439311-7e16-4f7f-93a3-6e0632674cc7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e38bcc5d-f65f-4ae3-90fe-5577cc7ad303</id>
+      <masked>false</masked>
+      <name>pasword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d9b20350-a60d-492c-a229-11031356ea07</id>
+      <masked>false</masked>
+      <name>excepted</name>
+   </variable>
+</TestCaseEntity>
